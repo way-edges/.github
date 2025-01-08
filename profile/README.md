@@ -1,6 +1,6 @@
 # Way-Edges project
 
-This is a wayland client application based on gtk4-layer-shell. Written in Rust.
+Light weight wayland client focusd on widgets hidden in your screen edge. 
 
 Doc: https://way-edges.github.io/description
 
