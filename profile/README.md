@@ -10,3 +10,4 @@ Other thoughts:
 - lock with FNAF theme
 - drawer like [nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) but faster and smoother
 - notification daemon (can communicate with others, for example lock)
+- window indicator
